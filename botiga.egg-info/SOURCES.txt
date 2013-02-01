@@ -5,7 +5,9 @@ development.ini
 production.ini
 setup.cfg
 setup.py
+botiga/DadesProductes.py
 botiga/__init__.py
+botiga/productes.txt
 botiga/tests.py
 botiga/views.py
 botiga.egg-info/PKG-INFO
@@ -23,5 +25,7 @@ botiga/static/middlebg.png
 botiga/static/pylons.css
 botiga/static/pyramid-small.png
 botiga/static/pyramid.png
+botiga/static/style.css
 botiga/static/transparent.gif
 botiga/templates/mytemplate.pt
+botiga/templates/productes.mako
